@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Alumno\Desktop\Sistemas_Operativos\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
